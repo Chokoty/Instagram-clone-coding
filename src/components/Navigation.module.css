@@ -1,0 +1,13 @@
+#navbar{
+  background: tomato;
+  height: 60px;
+  font-size: 14px;
+}
+
+.logo {
+  width: 200px;
+  background: teal;
+  /* background-image: url('../imgs/logo.png'); */
+  background-size : cover;
+  background-position : center;
+}
